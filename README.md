@@ -3,7 +3,7 @@
 
 ## 🚀 Sobre mim
 
-Meu nome é **[Seu Nome]** e sou estudante do curso de **Análise e Desenvolvimento de Sistemas**.
+Meu nome é **ingrid tainara da silva moura** e sou estudante do curso de **Análise e Desenvolvimento de Sistemas**.
 
 Criei este perfil para compartilhar minha evolução na área de tecnologia, armazenar projetos acadêmicos, exercícios, desafios e aplicações desenvolvidas durante minha jornada como desenvolvedor.
 
